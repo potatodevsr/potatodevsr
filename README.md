@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://herbiware.com">Portfolio</a>
-  ·
   <a href="https://vocab-learning-app.hoshiku1997.workers.dev">Live project</a>
   ·
   <a href="https://github.com/potatodevsr/vocab-learning-app">Featured repository</a>
+  ·
+  <a href="https://github.com/potatodevsr?tab=repositories">All repositories</a>
 </p>
 
 ## What I work with
@@ -48,7 +48,7 @@ A bilingual Thai vocabulary platform that turns familiar Oxford 3000 English pro
 
 ## Currently
 
-I'm open to opportunities where I can contribute across frontend and backend, collaborate closely with product teams, and keep growing through real-world engineering challenges.
+I'm open to full-stack and frontend engineering opportunities where I can contribute across the product, collaborate closely with a team, and keep growing through real-world engineering challenges.
 
 ---
 
